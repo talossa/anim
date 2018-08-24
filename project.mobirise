@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "nippa.club",
-    "currentPage": "page4.html",
+    "currentPage": "privacy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -532,7 +532,7 @@
         }
       ]
     },
-    "page4.html": {
+    "privacy.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "privacy",
